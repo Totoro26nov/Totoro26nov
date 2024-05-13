@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Totoro26nov
+...
+- 🌱 I’m currently learning python basics
